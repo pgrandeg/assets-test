@@ -8,6 +8,13 @@
       "name": "Pablo Alberto Grande García (pgrandeg)",
       "role": "Maintainer"
     }
-  ]
+  ],
+  "require": {
+    "composer/installers": "^2.0@dev"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
 }
-
