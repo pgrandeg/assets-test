@@ -1,0 +1,13 @@
+{
+  "name": "pgrandeg/assets-test",
+  "description": "Assets test.",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Pablo Alberto Grande García (pgrandeg)",
+      "role": "Maintainer"
+    }
+  ]
+}
+
